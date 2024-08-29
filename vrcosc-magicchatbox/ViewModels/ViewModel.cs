@@ -4058,16 +4058,16 @@ namespace vrcosc_magicchatbox.ViewModels
         }
 
 
-        private double _ScanningInterval = 1.6;
+        private double _ScanningInterval = 0.1;
 
         public double ScanningInterval
         {
             get { return _ScanningInterval; }
             set
             {
-                if (value < 1.6)
+                if (value < 0.1)
                 {
-                    _ScanningInterval = 1.6;
+                    _ScanningInterval = 0.1;
                 }
                 else if (value > 10)
                 {
