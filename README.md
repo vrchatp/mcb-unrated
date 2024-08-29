@@ -1,5 +1,7 @@
-This is a fork of magic chatbox that uncaps the "OSC update rate" from 1.6 to 0.1.
-Will only work if you have a modification of vrchat itself that unblocks the osc ratelimit.
+> This is a fork of magic chatbox that uncaps the "OSC update rate" from 1.6 to 0.1.
+> Will only work if you have a modification of vrchat itself that unblocks the osc ratelimit.
+>
+> update in future to remove bloat?
 
 
 
